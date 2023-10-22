@@ -611,10 +611,6 @@ video {
   --tw-text-opacity: 1;
   color: rgb(0 92 152 / var(--tw-text-opacity));
 }
-.text-gray-base {
-  --tw-text-opacity: 1;
-  color: rgb(97 97 97 / var(--tw-text-opacity));
-}
 .text-red-primary {
   --tw-text-opacity: 1;
   color: rgb(237 73 86 / var(--tw-text-opacity));
