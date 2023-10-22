@@ -1,8 +1,8 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
-import { Suspense, lazy } from 'react'
-import * as ROUTES from './constants/routes'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Suspense, lazy } from 'react';
+import * as ROUTES from './constants/routes';
 
-const Login = lazy(()=> import('./pages/login'))
+const Login = lazy(() => import('./pages/login'));
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
         </Routes>
       </Suspense>
     </Router>
-  )
+  );
 }
 
-export default App
+export default App;
