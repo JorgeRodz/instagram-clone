@@ -1,13 +1,26 @@
 # 📷 Instagram clone 🤖
+- Image here
 
 ## 📖 Description 🗣️
-- cliente side rendered app: react (vite)
-  - database (firebase)
-  - react-loading-skeleton
-  - tailwind
+Simple clone instagram app, using react, firebase and tailwind.
 
-- folder architecture
+<details>
+  <summary>App features </summary>
+  ✅ Sing up with email and password</br>
+  ✅ Login with email and password</br>
+  ✅ Toggle Like</br>
+  ✅ Add comment</br>
+  ✅ Follow people</br>
+  ⏳ Upload image</br>
+  ⏳ Post creation</br>
+  ⏳ Unfollow users</br>
+</details>
+
+<details>
+  <summary>Main folder structure</summary>
+
   - src
+
     - components,
     - constants,
     - context,
@@ -17,6 +30,8 @@
     - lib (firebase is here),
     - services
     - styles (tailwind's folder (app/tailwind))
+</details>
+
 
 ## 📦 Packages 🧑‍💻
 - [date-fns](https:-date-fns.org/)
