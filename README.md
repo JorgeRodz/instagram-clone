@@ -15,6 +15,7 @@ Simple clone instagram app, using react, firebase and tailwind.
   ⏳ Upload image</br>
   ⏳ Post creation</br>
   ⏳ Unfollow users</br>
+  ⏳ Media Queries - mobile</br>
 </details>
 
 <details>
