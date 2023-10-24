@@ -1,5 +1,6 @@
 # 📷 Instagram clone 🤖
-- Image here
+![image](https://github.com/JorgeRodz/instagram-clone/assets/13999498/5623f635-109f-402e-a424-c92652ca6301)
+
 
 ## 📖 Description 🗣️
 Simple clone instagram app, using react, firebase and tailwind.
